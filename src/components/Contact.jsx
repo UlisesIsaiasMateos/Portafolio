@@ -19,14 +19,22 @@ export default function Contact() {
 
           <div className="contact-links">
             <a
+              className="btn-outline"
+              href="7296974784"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Telefono
+            </a>
+            <a
               className="btn-primary"
-              href="mailto:tu@email.com"
+              href="uli05112001@gmail.com"
             >
               ✉ Enviar mensaje
             </a>
             <a
               className="btn-outline"
-              href="https://github.com/tu-usuario"
+              href="https://github.com/UlisesIsaias"
               target="_blank"
               rel="noopener noreferrer"
             >

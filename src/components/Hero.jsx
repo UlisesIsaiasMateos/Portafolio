@@ -21,7 +21,7 @@ export default function Hero() {
 
             <h1 className="hero-name">
               Ulises Isaías<br />
-              <span className="blue">DevOps Senior</span>
+              <span className="blue">DevOps S</span>
             </h1>
 
             <p className="hero-role">
