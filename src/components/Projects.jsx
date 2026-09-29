@@ -26,6 +26,14 @@ const projects = [
     link: '#',
     preview: '⚡ main.tf',
   },
+  {
+    id: 4,
+    title: 'Pagina lista de pendientes',
+    desc: 'pagina funcional para listar tus pendietes y llevar un registro',
+    tags: ['React', 'Java Script', 'PWD', 'Deployada'],
+    link: 'https://list-pendientes.netlify.app/',
+    preview: '⚡ main.tf',
+  },
 ];
 
 function ProjectPreview({ label }) {

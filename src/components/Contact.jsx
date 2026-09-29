@@ -34,7 +34,7 @@ export default function Contact() {
             </a>
             <a
               className="btn-outline"
-              href="https://github.com/UlisesIsaias"
+              href="https://github.com/UlisesIsaiasMateos"
               target="_blank"
               rel="noopener noreferrer"
             >
